@@ -8,6 +8,13 @@ You can be part of an amazing team which deals with data all the time using diff
 
 Following is a little treasure and challenge for those keen on joining this amazing company and team.
 
+## Junior/Mid 
+For a Junior/Mid role we are expecting at least 2-3 tables to be loaded and an aggregated report done.
+
+## Senior
+We are expecting the most from you.
+
+
 # The Project
 Build a small ETL process to digest a few set of files into a data warehouse like project. 
 
