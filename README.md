@@ -1,8 +1,8 @@
 # Data Engineer Interview Test
 
-Prospa is looking for a high quality data engineer which can deliver comprehensive solutions for our continuity and business growth. 
+We are looking for a high quality data engineer which can deliver comprehensive solutions for our continuity and business growth. 
 
-The Analytics team drives the data culture at Prospa, we want to change how we produce data from large batches to micro batching, from daily to near real-time/streaming processing, from tabular reports to insightful dashboards.    
+The Analytics team drives the data culture, we want to change how we produce data from large batches to micro batching, from daily to near real-time/streaming processing, from tabular reports to insightful dashboards.    
 
 You can be part of an amazing team which deals with data all the time using different process, tools and technologies.
 
